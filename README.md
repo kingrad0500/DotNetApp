@@ -1,4 +1,4 @@
-# DotNetApp
+# DotNetApp - Razor Use
 
 This is a proyect based on a tutorial made it by Bhrugen Patel! 
 
